@@ -6,6 +6,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm scared to death about my career switch from social media marketing to web development.
 
+Thanks for reading, and hoping to connect!
+Love, Nicole.
+
 <!---
 nicolelovescoding/nicolelovescoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
